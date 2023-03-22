@@ -1,3 +1,8 @@
+
+# ⚠️ This repository is being continued at [Dracula Theme](https://github.com/dracula/mkdocs)
+
+---
+
 # Dracula for [Mkdocs](https://www.mkdocs.org/)
 
 > A dark theme for [Mkdocs](https://www.mkdocs.org/).
